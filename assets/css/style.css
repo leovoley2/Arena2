@@ -1416,7 +1416,7 @@ section {
   position: fixed;
   z-index: 999;
   border-radius: 50%;
-  bottom: 30px;
+  bottom: 70px;
   right: 25px;
   padding: 15px;
   transition: ease 0.3s;
