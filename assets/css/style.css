@@ -174,7 +174,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  background: rgba(255, 255, 255, 0.2);
+  background: rgb(11, 11, 11);
 }
 
 .navbar .dropdown ul {
@@ -1417,7 +1417,7 @@ section {
   z-index: 999;
   border-radius: 50%;
   bottom: 20px;
-  right: 25px;
+  right: 17px;
   padding: 15px;
   transition: ease 0.3s;
   animation: efecto 1.2s infinite;
